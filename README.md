@@ -1,3 +1,5 @@
+<hr>
+
 ### Hello there
 
 My name is Thamognya Kodi. I am a highschool freshman who is intersted in linux and programming. I currently use Gentoo and I know Python, C, C++, Java and Bash. I am learning javascript which I would like to become better at.
