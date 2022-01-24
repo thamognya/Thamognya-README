@@ -19,7 +19,7 @@ My name is Thamognya Kodi. I am a highschool freshman who is intersted in linux 
 
 ### Contact:
 
-You can learn more about me through my website <a href="https://www.thamognya.com" target="_blank">www.thamognya.com</a> and you can find a contact medium through <a href="https://contact.thamognya.com" target="_blank">contact.thamognya.com</a>.
+You can learn more about me through my website <a href="https://www.thamognya.com" target="_blank">www.thamognya.com</a> and you can find a contact medium through <a href="https://contact.thamognya.com" target="_blank">contact.thamognya.com</a>. You can also explore my git server at <a href="https://git.thamognya.com" target="_blank">git.thamognya.com</a>.
 
 <hr>
 
