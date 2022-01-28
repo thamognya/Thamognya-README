@@ -17,9 +17,17 @@ My name is Thamognya Kodi. I am a highschool freshman who is intersted in linux 
 
 <hr>
 
-### Contact:
+### Contact-Formal:
 
 You can learn more about me through my website <a href="https://www.thamognya.com" target="_blank">www.thamognya.com</a> and you can find a contact medium through <a href="https://contact.thamognya.com" target="_blank">contact.thamognya.com</a> but generally you can email me at contact@thamognya.com although do keep in mind I respond in about 1-2 bussiness days. You can also explore my git server at <a href="https://git.thamognya.com" target="_blank">git.thamognya.com</a>.
+
+#### Contact-Personal:
+
+If you would like to talk to me about anime or etc. send me a message at my discord:
+
+<div align='center'><img src="" width="500" align="center"></div>
+
+
 
 <hr>
 
