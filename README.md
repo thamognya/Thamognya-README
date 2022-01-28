@@ -28,7 +28,7 @@ You can learn more about me through my website <a href="https://www.thamognya.co
 <div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true&theme=graywhite"></div>
 <br>
 <div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&theme=graywhite"></div>
-
+<br>
 <hr>
 
 ### Contact-Personal:
