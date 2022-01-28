@@ -25,7 +25,7 @@ You can learn more about me through my website <a href="https://www.thamognya.co
 
 If you would like to talk to me about anime or etc. send me a message at my discord:
 
-<div align='center'><img src="" width="500" align="center"></div>
+<div align='center'><img src="https://raw.githubusercontent.com/ThamognyaKodi/ThamognyaKodi/main/discord.png" width="500" align="center"></div>
 
 
 
