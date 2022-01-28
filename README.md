@@ -8,10 +8,10 @@ My name is Thamognya Kodi. I am a highschool freshman who is intersted in linux 
 
 ### Todo for 2022:
 
-- [ ] Contribute to open-source projects
-- [ ] Contribute to Gentoo Wiki and the Gentoo Github
+- [x] Contribute to open-source projects
+- [x] Contribute to Gentoo Wiki and the Gentoo Github
 - [ ] Learn Rust
-- [ ] Learn More Javascript
+- [x] Learn More Javascript
 - [ ] Learn Fortran
 - [ ] Get a few devops certfications
 
