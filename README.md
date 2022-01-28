@@ -23,6 +23,14 @@ You can learn more about me through my website <a href="https://www.thamognya.co
 
 <hr>
 
+### Github Stats:
+
+<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true&theme=graywhite"></div>
+<br>
+<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&theme=graywhite"></div>
+
+<hr>
+
 ### Contact-Personal:
 
 If you would like to talk to me about anime or etc. send me a message at my discord:
@@ -30,13 +38,5 @@ If you would like to talk to me about anime or etc. send me a message at my disc
 <div align='center'><img src="https://raw.githubusercontent.com/ThamognyaKodi/ThamognyaKodi/main/discord.png" width="500" align="center"></div>
 
 Just make sure you tell me you are from github so that I dont block you :)
-
-<hr>
-
-### Github Stats:
-
-<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true&theme=graywhite"></div>
-<br>
-<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&theme=graywhite"></div>
 
 <hr>
