@@ -25,9 +25,9 @@ You can learn more about me through my website <a href="https://www.thamognya.co
 
 ### Github Stats:
 
-<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true&theme=graywhite"></div>
+<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true"></div>
 <br>
-<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=9&exclude_repo=DWM-Retro-Theme&theme=graywhite"></div>
+<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&exclude_repo=DWM-Retro-Theme"></div>
 <br>
 <hr>
 
