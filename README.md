@@ -40,6 +40,11 @@
         <td>Formal: May take 1-2 bussiness days to respond.</td>
     </tr>
     <tr>
+        <td>Linkedin: </td>
+        <td><a href="https://www.linkedin.com/in/thamognya">Thamognya</a></td>
+        <td>Formal: Quick response.</td>
+    </tr>
+    <tr>
         <td>Discord: </td>
         <td><a class="underline" href="https://discord.com"><img src="https://raw.githubusercontent.com/ThamognyaKodi/ThamognyaKodi/main/discord.png" alt="Discord Username: IronZoom Discord ID: #5805" width="300px"></a></td>
         <td>Informal: ask away :)</td>
