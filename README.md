@@ -58,7 +58,7 @@
             <div class="languages">
                 <h3 class="subsubtitle">Top Languages Used: </h3>
                 <div class="languages_img">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&exclude_repo=DWM-Retro-Theme&theme=onedark" alt="github top languages">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&exclude_repo=DWM-Retro-Theme" alt="github top languages">
                 </div>
             </div>
             <div class="activity_graph">
