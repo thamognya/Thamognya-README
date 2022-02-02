@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td>Linkedin: </td>
-        <td><a href="https://www.linkedin.com/in/thamognya">Thamognya</a></td>
+        <td><a href="https://www.linkedin.com/in/thamognya"><img src="https://img.shields.io/badge/LinkedIn_Thamognya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
         <td>Formal: Quick response.</td>
     </tr>
     <tr>
