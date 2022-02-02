@@ -45,6 +45,11 @@
         <td>Formal: Quick response.</td>
     </tr>
     <tr>
+        <td>Gitlab: </td>
+        <td><a href="https://gitlab.com/ThamognyaKodi"><https://gitlab.com/ThamognyaKodi</td>
+        <td>Formal: Not active. Just to prevent identity theft</td>
+    </tr>
+    <tr>
         <td>Discord: </td>
         <td><a class="underline" href="https://discord.com"><img src="https://raw.githubusercontent.com/ThamognyaKodi/ThamognyaKodi/main/discord.png" alt="Discord Username: IronZoom Discord ID: #5805" width="300px"></a></td>
         <td>Informal: ask away :)</td>
