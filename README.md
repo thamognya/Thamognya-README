@@ -104,8 +104,12 @@
 <hr>
 
 <h3 align="center">
-    Technologies
+    What I use
 </h3>
+
+<h4 align="center">
+    Technologies
+</h4>
 
 <div align="center">
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFFFF" alt="Herkoku logo" title="Python" height="25" /></span>&nbsp;&nbsp;
@@ -119,6 +123,19 @@
 <span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF" alt="Herkoku logo" title="Neovim" height="25" /></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Neovim-282C34?logo=neovim&logoColor=FFFFFF" alt="Herkoku logo" title="Neovim" height="25" /></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;&nbsp;
+</div>
+
+<h4 align="center">
+    OS
+</h4>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Linux_From_Scratch-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white">
+<img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black">
 </div>
 
 <hr>
