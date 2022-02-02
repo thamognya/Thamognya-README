@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td>Gitlab: </td>
-        <td><a href="https://gitlab.com/ThamognyaKodi"><https://gitlab.com/ThamognyaKodi</td>
+        <td><a href="https://gitlab.com/ThamognyaKodi">ThamognyaKodi</a></td>
         <td>Formal: Not active. Just to prevent identity theft</td>
     </tr>
     <tr>
