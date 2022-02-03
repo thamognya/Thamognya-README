@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td>Email: </td>
-        <td><a class="underline" href="">contact@thamognya.com</a></td>
+        <td><a class="underline" href="mailto:contact@thamognya.com"><img src="https://img.shields.io/badge/Mail:_contact@thamognya.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
         <td>Formal: May take 1-2 bussiness days to respond.</td>
     </tr>
     <tr>
