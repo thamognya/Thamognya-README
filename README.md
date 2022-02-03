@@ -95,7 +95,7 @@
 </h4>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThamognyaKodi" alt="github">
+    <img src="https://github-profile-trophy.vercel.app/?username=ThamognyaKodi&theme=onedark" alt="github">
 </div>
 
 <h4 align="center">
