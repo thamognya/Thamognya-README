@@ -79,7 +79,7 @@
 </h4>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&exclude_repo=DWM-Retro-Theme,yaf-gentoo-ebuilds,gcc-cross-compiler&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&theme=onedark">
 </div>
 
 <h4 align="center">
