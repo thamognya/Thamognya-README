@@ -62,6 +62,10 @@
 
 <hr>
 
+<h3 align="center">
+    What I use
+</h3>
+
 <h4 align="center">
     Technologies
 </h4>
@@ -140,9 +144,3 @@
 </div>
 
 <hr>
-
-<h3 align="center">
-    What I use
-</h3>
-
-
