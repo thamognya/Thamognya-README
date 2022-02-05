@@ -18,7 +18,8 @@
 - [ ] Learn Rust
 - [ ] Learn More Javascript
 - [ ] Get a few certfications
-- [ ] Contribute to Gentoo Wiki and the Gentoo Github
+- [ ] Become Gentoo Developer
+- [ ] Become Arch Developer
 
 </div>
 
