@@ -57,7 +57,7 @@
 </table>
 
 <p align="center">
-    For more modes of contact, you can go to <a class="underline" href="https://www.thamognya.com" target="_blank"><img src="https://img.shields.io/badge/thamognya.com-000000?style=for-the-badge&logo=About.website&logoColor=white"></a> or <a class="underline" href="contact.thamognya.com" target="_blank"><img src="https://img.shields.io/badge/contact.thamognya.com-000000?style=for-the-badge&logo=About.website&logoColor=white"></a>.
+    For more modes of contact, you can go to <a class="underline" href="https://www.thamognya.com" target="_blank"><img src="https://img.shields.io/badge/thamognya.com-000000?style=for-the-badge&logo=About.website&logoColor=white"></a> or <a class="underline" href="https://contact.thamognya.com" target="_blank"><img src="https://img.shields.io/badge/contact.thamognya.com-000000?style=for-the-badge&logo=About.website&logoColor=white"></a>.
 </p>
 
 <hr>
