@@ -16,8 +16,9 @@
 
 - [x] Contribute to open-source projects
 - [ ] Learn Rust
-- [ ] Learn More Javascript
-- [ ] Get a few certfications
+- [X] Learn Javascript and Typescript
+    - [ ] Learn React, Flutter
+- [X] Get a few certfications
 - [ ] Become Gentoo Developer
 - [ ] Become Arch Developer
 
