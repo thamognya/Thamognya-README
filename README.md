@@ -9,18 +9,13 @@
 <hr>
 
 <h3 align="center">
-    Todo
+    Achievements
 </h3>
 
-<div align="center">
+<div>
 
-- [x] Contribute to open-source projects
-- [ ] Learn Rust
-- [X] Learn Javascript and Typescript
-    - [ ] Learn React, Flutter
-- [X] Get a few certfications
-- [ ] Become Gentoo Developer
-- [ ] Become Arch Developer
+- [x] AMC 10B Perfect Score
+- [ ] Completion Bash Certificate from Codecademy
 
 </div>
 
@@ -97,6 +92,24 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white">
 <img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black">
+</div>
+
+<hr>
+
+<h3 align="center">
+    Todo
+</h3>
+
+<div>
+
+- [x] Contribute to open-source projects
+- [ ] Learn Rust
+- [X] Learn Javascript and Typescript
+    - [ ] Learn React, Flutter
+- [X] Get a few certfications
+- [ ] Become Gentoo Developer
+- [ ] Become Arch Developer
+
 </div>
 
 <hr>
