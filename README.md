@@ -1,4 +1,4 @@
-<h1>Support Ukraine</h1>
+<h1>SLAVA UKRAINE</h1>
 
 I know I am not a political guy, but I just wanted to say this.
 
