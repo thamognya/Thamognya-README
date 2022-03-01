@@ -1,6 +1,6 @@
-<h1>SLAVA UKRAINE</h1>
+<h1 align="center">SLAVA UKRAINE</h1>
 
-I know I am not a political guy, but I just wanted to say this.
+<div align="center">I know I am not a political guy, but I just wanted to say this.</div>
 
 <hr>
 <h3 align="center">
