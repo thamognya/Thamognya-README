@@ -1,7 +1,3 @@
-<h1 align="center">SLAVA UKRAINE</h1>
-
-<div align="center">I know I am not a political guy, but I just wanted to say this.</div>
-
 <hr>
 <h3 align="center">
     Hello, welcome to my profile
@@ -18,8 +14,8 @@
 
 <div>
 
-- AMC 10B Perfect Score
-- Completion Bash Certificate from Codecademy
+# - AMC 10B Perfect Score
+# - Completion Bash Certificate from Codecademy
 
 </div>
 
