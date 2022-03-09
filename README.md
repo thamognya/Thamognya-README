@@ -14,8 +14,8 @@
 
 <div>
 
-# - AMC 10B Perfect Score
-# - Completion Bash Certificate from Codecademy
+### - AMC 10B Perfect Score
+### - Completion Bash Certificate from Codecademy
 
 </div>
 
