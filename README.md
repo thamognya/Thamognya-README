@@ -104,12 +104,12 @@
 
 - [x] Contribute to open-source projects
 - [ ] Learn Rust
+    - [ ] Learn web assembly
 - [X] Learn Javascript and Typescript
     - [ ] Learn React, Flutter
 - [X] Get a few certfications
 - [ ] Become Gentoo Developer
-- [ ] Become Arch Developer
-
+    
 </div>
 
 <hr>
