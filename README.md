@@ -142,6 +142,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=ThamognyaKodi&theme=github">
 </div>
 
+
 <h4 align="center">
     Trophies:
 </h4>
