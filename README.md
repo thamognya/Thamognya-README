@@ -4,7 +4,7 @@
 
 <img align="left" src="https://avatars.githubusercontent.com/u/98194153?v=4" width="270" /> 
 
-```rust
+```csharp
 Thamognya@github.com
 -------------------------
 OS: Gentoo x86_64
