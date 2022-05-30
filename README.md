@@ -1,12 +1,33 @@
 ```console
 ~ $ > fastfetch
 ```
-
-<img align="left" src="https://avatars.githubusercontent.com/u/98194153?v=4" width="270" /> 
+<div align="left">
+ 
+         -/oyddmdhs+:.                 
+     -odNMMMMMMMMNNmhy+-`              
+   -yNMMMMMMMMMMMNNNmmdhy+-            
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`         
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`       
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`     
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:    
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`     
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.       
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`         
++MMMMMMMNNNNNmmmmdmNMNdso/-            
+yMMNNNNNNNmmmmmNNMmhs+/-`              
+/hMMNNNNNNNNMNdhs++/-`                 
+`/ohdmmddhys+++/:.`                    
+  `-//////:--.  
+   
+```
+</div>
 
 ```csharp
-Thamognya@github.com
--------------------------
+ThamognyaKodi@github.com
+------------
 OS: Gentoo x86_64
 Shell: zsh 5.8.1
 Pronouns: He/Him
