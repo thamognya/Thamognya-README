@@ -21,7 +21,7 @@ Discord: IronZoom#5805
 <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-   &nbsp; &nbsp; &nbsp; &nbsp;
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://singlecolorimage.com/get/F28FAD/25x20" />
   <img src="https://singlecolorimage.com/get/ABE9B3/25x20" />
   <img src="https://singlecolorimage.com/get/B5E8E0/25x20" />
