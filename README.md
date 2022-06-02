@@ -36,7 +36,7 @@ Discord: IronZoom#5805
   <img src="https://singlecolorimage.com/get/89DCEB/25x20" />
 </p>
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-rust-kernel&theme=dark" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-c-kernel&theme=dark" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=GCC-Cross-Compiler&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-rust-kernel&theme=dark" width="300" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-c-kernel&theme=dark" width="300" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=GCC-Cross-Compiler&theme=dark" width="300" />
 </div>
