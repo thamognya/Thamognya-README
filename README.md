@@ -4,7 +4,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true&theme=dark&show_icons=true&" width="450"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true&theme=dark&show_icons=true&" width="400"/>
 
 ```csharp
 Thamognya@github.com
@@ -17,7 +17,7 @@ Frameworks: NextJs
 Languages: C, C++, Rust, Python,
 ```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&hide=shell&theme=dark" width="450" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&hide=shell&theme=dark" width="400" />
 
 ```csharp
 Typescript, Javascript
