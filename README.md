@@ -25,16 +25,7 @@ IRC: Thamognya
 Email: contact@thamognya.com
 Discord: IronZoom#5805
 ```
-<p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://singlecolorimage.com/get/F28FAD/25x20" />
-  <img src="https://singlecolorimage.com/get/ABE9B3/25x20" />
-  <img src="https://singlecolorimage.com/get/B5E8E0/25x20" />
-  <img src="https://singlecolorimage.com/get/96CDFB/25x20" />
-  <img src="https://singlecolorimage.com/get/89DCEB/25x20" />
-</p>
+
 <div align="left">
    <a href="https://github.com/ThamognyaKodi/TFetch" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=TFetch&theme=dark" width="300" /></a>
    <a href="https://github.com/ThamognyaKodi/UniverseVim" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=UniverseVim&theme=dark" width="300" /></a>
