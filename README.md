@@ -1,5 +1,5 @@
 ```console
-~ $ > fastfetch
+~ $ > www.thamognya.com
 ```
 
 
