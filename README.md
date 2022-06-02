@@ -36,9 +36,9 @@ Discord: IronZoom#5805
   <img src="https://singlecolorimage.com/get/89DCEB/25x20" />
 </p>
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=TFetch&theme=dark" width="300" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=UniverseVim&theme=dark" width="300" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-rust-kernel&theme=dark" width="300" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-c-kernel&theme=dark" width="300" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=GCC-Cross-Compiler&theme=dark" width="300" />
+   <a href="https://github.com/ThamognyaKodi/TFetch" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=TFetch&theme=dark" width="300" /></a>
+   <a href="https://github.com/ThamognyaKodi/UniverseVim" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=UniverseVim&theme=dark" width="300" /></a>
+   <a href="https://github.com/ThamognyaKodi/meaty-rust-kernel" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-rust-kernel&theme=dark" width="300" />
+   <a href="https://github.com/ThamognyaKodi/meaty-c-kernel" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-c-kernel&theme=dark" width="300" /></a>
+   <a href="https://github.com/ThamognyaKodi/GCC-Cross-Compiler" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=GCC-Cross-Compiler&theme=dark" width="300" /></a>
 </div>
