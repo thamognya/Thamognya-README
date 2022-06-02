@@ -28,3 +28,9 @@ Discord: IronZoom#5805
   <img src="https://singlecolorimage.com/get/96CDFB/25x20" />
   <img src="https://singlecolorimage.com/get/89DCEB/25x20" />
 </p>
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&hide=shell#gh-light-mode-only" />
+   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&hide=shell&theme=dark&show_icons=true#gh-dark-mode-only" />
+<div>
