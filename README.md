@@ -11,17 +11,17 @@ Thamognya@github.com
 -------------------------
 OS: Gentoo x86_64
 Shell: zsh 5.8.1
-Pronouns: He/Him
 Location: /home/thamognya
 Frameworks: NextJs
 Languages: C, C++, Rust, Python,
+Typescript, Javascript
 ```
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&hide=shell&theme=dark" width="400" />
 
 ```csharp
-Typescript, Javascript
 Hobbies: Coding, & Manga Reading
+IRC: Thamognya
 Email: contact@thamognya.com
 Discord: IronZoom#5805
 ```
