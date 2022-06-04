@@ -4,7 +4,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThamognyaKodi&count_private=true&theme=dark&show_icons=true&" width="400"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Thamognya&count_private=true&theme=dark&show_icons=true&" width="400"/>
 
 ```csharp
 Thamognya@github.com
@@ -17,7 +17,7 @@ Languages: C, C++, Rust, Python,
 Typescript, Javascript
 ```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamognyaKodi&langs_count=10&hide=shell&theme=dark" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell&theme=dark" width="400" />
 
 ```csharp
 Hobbies: Coding, & Manga Reading
@@ -27,9 +27,9 @@ Discord: IronZoom#5805
 ```
 
 <div align="left">
-   <a href="https://github.com/ThamognyaKodi/TFetch" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=TFetch&theme=dark" width="300" /></a>
-   <a href="https://github.com/ThamognyaKodi/UniverseVim" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=UniverseVim&theme=dark" width="300" /></a>
-   <a href="https://github.com/ThamognyaKodi/meaty-rust-kernel" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-rust-kernel&theme=dark" width="300" />
-   <a href="https://github.com/ThamognyaKodi/meaty-c-kernel" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=meaty-c-kernel&theme=dark" width="300" /></a>
-   <a href="https://github.com/ThamognyaKodi/GCC-Cross-Compiler" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThamognyaKodi&repo=GCC-Cross-Compiler&theme=dark" width="300" /></a>
+   <a href="https://github.com/Thamognya/TFetch" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thamognya&repo=TFetch&theme=dark" width="300" /></a>
+   <a href="https://github.com/Thamognya/UniverseVim" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thamognya&repo=UniverseVim&theme=dark" width="300" /></a>
+   <a href="https://github.com/Thamognya/meaty-rust-kernel" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thamognya&repo=meaty-rust-kernel&theme=dark" width="300" />
+   <a href="https://github.com/Thamognya/meaty-c-kernel" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thamognya&repo=meaty-c-kernel&theme=dark" width="300" /></a>
+   <a href="https://github.com/Thamognya/GCC-Cross-Compiler" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thamognya&repo=GCC-Cross-Compiler&theme=dark" width="300" /></a>
 </div>
