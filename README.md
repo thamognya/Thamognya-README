@@ -4,7 +4,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Thamognya&count_private=true&show_icons=true&" width="400"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Thamognya&count_private=true&show_icons=true&theme=dark" width="400"/>
 
 ```csharp
 Thamognya@github.com
@@ -17,7 +17,7 @@ Languages: C, C++, Rust, Python,
 Typescript, Javascript
 ```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell&theme=dark" width="400" />
 
 ```csharp
 Hobbies: Coding, & Manga Reading
