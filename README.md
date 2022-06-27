@@ -17,7 +17,7 @@ Languages: C, C++, Rust, Python,
 Typescript, Javascript
 ```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell&theme=dark" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell,XSLT&theme=dark" width="400" />
 
 ```csharp
 Hobbies: Coding, & Manga Reading
